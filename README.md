@@ -8,6 +8,10 @@ This project shows how to use text recognition feature in a react native app sim
 Edit `packager-info.json` file under `.expo` folder
 and `config.js` file under root folder.
 
+## Access
+
+Create an `IAM` User with read/write access to `AWS rekognition` and `S3Object Storage` then copy the assess id & secret key.
+
 ## Install Steps
 
 1. `yarn install` 

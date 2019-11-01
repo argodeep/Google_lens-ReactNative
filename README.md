@@ -1,6 +1,8 @@
 # React-Native---Text-Recognition
 This project shows how to use text recognition feature in a react native app similar like google lens 
 
+[![Watch the video](https://img.youtube.com/vi/fqwuPihkIi4/maxresdefault.jpg)](https://youtu.be/fqwuPihkIi4)
+
 ## Setup
 
 Edit `packager-info.json` file under `.expo` folder

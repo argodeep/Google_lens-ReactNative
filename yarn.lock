@@ -4429,7 +4429,7 @@ md5-file@^3.2.3:
   dependencies:
     buffer-alloc "^1.1.0"
 
-mem@^1.1.0:
+mem@^4.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/mem/-/mem-1.1.0.tgz#5edd52b485ca1d900fe64895505399a0dfa45f76"
   integrity sha1-Xt1StIXKHZAP5kiVUFOZoN+kX3Y=
@@ -4760,7 +4760,7 @@ metro@0.51.1, metro@^0.51.0:
     throat "^4.1.0"
     wordwrap "^1.0.0"
     write-file-atomic "^1.2.0"
-    ws "^1.1.5"
+    ws "^3.3.1"
     xpipe "^1.0.5"
     yargs "^9.0.0"
 
@@ -5267,7 +5267,7 @@ os-locale@^2.0.0:
   dependencies:
     execa "^0.7.0"
     lcid "^1.0.0"
-    mem "^1.1.0"
+    mem "^4.0.0"
 
 os-tmpdir@^1.0.0, os-tmpdir@~1.0.2:
   version "1.0.2"

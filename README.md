@@ -1,4 +1,4 @@
-# React-Native---Text-Recognition
+# Google Lens - RN Text-Recognition with AWS Rekognition
 This project shows how to use text recognition feature in a react native app similar like google lens 
 
 [![Watch the video](https://img.youtube.com/vi/fqwuPihkIi4/maxresdefault.jpg)](https://youtu.be/fqwuPihkIi4)
